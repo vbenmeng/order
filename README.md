@@ -7,3 +7,4 @@
    c）DB Username
    d）DB Password
 3. 完成配置之后能可以运行spring程序;
+4. mysql version is 8.0.23
